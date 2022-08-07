@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vr-landing-page/static/css/main.651777c4.css",
+    "main.js": "/vr-landing-page/static/js/main.4f005b4e.js",
+    "static/media/headset-1.png": "/vr-landing-page/static/media/headset-1.4113a83119be0dd4c844.png",
+    "static/media/explore.png": "/vr-landing-page/static/media/explore.ebf710feded2cdf0173a.png",
+    "static/media/headset-3.png": "/vr-landing-page/static/media/headset-3.dd254bc5c9f5710f6b8c.png",
+    "static/media/headset-2.png": "/vr-landing-page/static/media/headset-2.5e7d3a4f5053a7cd83ce.png",
+    "static/media/headset-4.png": "/vr-landing-page/static/media/headset-4.86fbd5331fdf883cace8.png",
+    "static/media/banner-img.png": "/vr-landing-page/static/media/banner-img.88d2cff0054ba733f8f1.png",
+    "static/media/exp-img1.png": "/vr-landing-page/static/media/exp-img1.28ea24567fb8b360e2e4.png",
+    "static/media/exp-img2.png": "/vr-landing-page/static/media/exp-img2.a216be8605dcc797f8c2.png",
+    "static/media/circle.png": "/vr-landing-page/static/media/circle.ab211ee049f549b93c44.png",
+    "static/media/video-bg.png": "/vr-landing-page/static/media/video-bg.a355a39dae93704ab5bf.png",
+    "static/media/logo.svg": "/vr-landing-page/static/media/logo.1ce7d72c3e53ededdf4672a4a768de7d.svg",
+    "static/media/avt2.png": "/vr-landing-page/static/media/avt2.f68763ab41dae813d681.png",
+    "static/media/avt1.png": "/vr-landing-page/static/media/avt1.75a70dbb97844b58465f.png",
+    "static/media/avt3.png": "/vr-landing-page/static/media/avt3.a7ba70df418b3df1ae78.png",
+    "static/media/avt4.png": "/vr-landing-page/static/media/avt4.aabbb166b2124eb5f652.png",
+    "index.html": "/vr-landing-page/index.html",
+    "main.651777c4.css.map": "/vr-landing-page/static/css/main.651777c4.css.map",
+    "main.4f005b4e.js.map": "/vr-landing-page/static/js/main.4f005b4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651777c4.css",
+    "static/js/main.4f005b4e.js"
+  ]
+}
